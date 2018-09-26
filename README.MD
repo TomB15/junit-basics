@@ -1,4 +1,4 @@
-JUnit - The Basics - (code example)
+JUnit - The Basics (code example)
 ==
 
 Simple example of JUnit usage.
